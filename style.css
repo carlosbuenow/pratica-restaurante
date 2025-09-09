@@ -6,10 +6,11 @@
 html{
   margin: 200px;
   background-color: grey;
+  display:block;
 }
 body{
   background-color: white;
-  border: 3px groove black;
+  border: 3px groove black
 }
 nav a{
   color: grey;
