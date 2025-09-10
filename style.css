@@ -13,9 +13,10 @@ html{
 }
 body{
   background-color: white;
-  border: 3px groove rgb(230, 224, 224);
+  border: 5px solid rgb(230, 224, 224);
   overflow-y: auto;
   height: 100vh;
+  box-shadow: 0 0 5px;
 }
 nav a{
   font-size: 23px;
