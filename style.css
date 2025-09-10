@@ -10,7 +10,7 @@ html{
 }
 body{
   background-color: white;
-  border: 3px groove black
+  border: 3px groove black;
 }
 nav a{
   color: grey;
